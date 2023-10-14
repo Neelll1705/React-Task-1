@@ -1,0 +1,38 @@
+/* Center the container div */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #4CAF50; /* Change the background color */
+}
+
+/* Style the box */
+textarea {
+  width: 100%;
+  max-width: 600px; /* Increase max-width */
+  padding: 15px; /* Adjust padding */
+  border: 3px solid #E91E63; /* Change border color */
+  border-radius: 12px; /* Adjust border radius */
+  resize: none;
+  font-size: 18px; /* Change font size */
+  background-color: #E0E0E0; /* Change background color */
+  color: #333; /* Change text color */
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px; /* Increase font size */
+  font-weight: bold;
+  color: #2196F3; /* Change the color */
+  margin-bottom: 20px; /* Adjust margin */
+}
+
+p {
+  text-align: center;
+  margin-top: 15px; /* Adjust margin */
+  font-size: 16px; /* Increase font size */
+  color: #607D8B; /* Change the color */
+}
+
+/* You can add more styles as needed */
